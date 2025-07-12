@@ -1,7 +1,5 @@
 # Postman Collection Automation using Newman
 
-[![Actions Status](https://github.com/ashikkumar23/postman-reports/workflows/Newman%20Tests/badge.svg)](https://github.com/ashikkumar23/postman-reports/actions/workflows/github-actions-htmlextra-report.yml)
-
 This repository demonstrates how to run the `Postman` collection using `Newman` within the `GitHub Actions` job and generate the `htmlextra` test results report
 
 ## 🚀 Description:
